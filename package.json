@@ -1,0 +1,14 @@
+{
+  "name": "json-server",
+  "version": "0.0.1",
+  "description": "mock server",
+  "main": "server.js",
+  "scripts": {
+    "mock:api": "node server"
+  },
+  "author": "iChops",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}

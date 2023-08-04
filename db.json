@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jon Doe",
+      "age": 30,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "age": 25,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Bob Taylor",
+      "age": 45,
+      "active": false
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "title": "Introduction to Vue.js",
+      "content": "Vue.js is a progressive JavaScript framework...",
+      "tags": [
+        "vue",
+        "javascript"
+      ],
+      "createdAt": "2023-06-10T00:00:00Z",
+      "updatedAt": "2023-06-10T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Mastering React Hooks",
+      "content": "Hooks are a new addition in React 16.8...",
+      "tags": [
+        "react",
+        "javascript",
+        "hooks"
+      ],
+      "createdAt": "2023-06-11T00:00:00Z",
+      "updatedAt": "2023-06-11T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Angular for Beginners",
+      "content": "Angular is a platform for building web applications...",
+      "tags": [
+        "angular",
+        "javascript"
+      ],
+      "createdAt": "2023-06-12T00:00:00Z",
+      "updatedAt": "2023-06-12T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Getting Started with Node.js",
+      "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine...",
+      "tags": [
+        "node.js",
+        "javascript"
+      ],
+      "createdAt": "2023-06-13T00:00:00Z",
+      "updatedAt": "2023-06-13T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Understanding TypeScript",
+      "content": "TypeScript is a strongly typed superset of JavaScript...",
+      "tags": [
+        "typescript",
+        "javascript"
+      ],
+      "createdAt": "2023-06-14T00:00:00Z",
+      "updatedAt": "2023-06-14T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "A Deep Dive into CSS Grid",
+      "content": "CSS Grid Layout is the most powerful layout system available in CSS...",
+      "tags": [
+        "css",
+        "grid"
+      ],
+      "createdAt": "2023-06-15T00:00:00Z",
+      "updatedAt": "2023-06-15T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "The Power of SASS",
+      "content": "Sass is a CSS preprocessor that helps you write more efficient CSS...",
+      "tags": [
+        "sass",
+        "css"
+      ],
+      "createdAt": "2023-06-16T00:00:00Z",
+      "updatedAt": "2023-06-16T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Exploring MongoDB",
+      "content": "MongoDB is a source-available cross-platform document-oriented database...",
+      "tags": [
+        "mongodb",
+        "database"
+      ],
+      "createdAt": "2023-06-17T00:00:00Z",
+      "updatedAt": "2023-06-17T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Mastering GraphQL",
+      "content": "GraphQL is a query language for APIs and a runtime for executing those queries...",
+      "tags": [
+        "graphql",
+        "api"
+      ],
+      "createdAt": "2023-06-18T00:00:00Z",
+      "updatedAt": "2023-06-18T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Advanced Docker Techniques",
+      "content": "Docker is an open platform for developing, shipping, and running applications...",
+      "tags": [
+        "docker",
+        "devops"
+      ],
+      "createdAt": "2023-06-19T00:00:00Z",
+      "updatedAt": "2023-06-19T00:00:00Z"
+    },
+    {
+      "title": "Understanding React",
+      "content": "React is a strongly recommended frameword for FE ...",
+      "tags": [
+        "typescript",
+        "javascript",
+        "React"
+      ],
+      "createdAt": "2023-07-14T00:00:00Z",
+      "updatedAt": "2023-07-14T00:00:00Z",
+      "id": "ZqLHi6R"
+    },
+    {
+      "id": 11,
+      "title": "Understanding React",
+      "content": "React is a strongly recommended frameword for FE ...",
+      "tags": [
+        "typescript",
+        "javascript",
+        "React"
+      ],
+      "createdAt": "2023-07-14T00:00:00Z",
+      "updatedAt": "2023-07-14T00:00:00Z"
+    }
+  ]
+}
