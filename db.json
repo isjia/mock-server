@@ -17,6 +17,25 @@
       "name": "Bob Taylor",
       "age": 45,
       "active": false
+    },
+    {
+      "username": "aaabbb",
+      "password": "123456",
+      "repassword": "123456",
+      "nickname": "啊啊啊",
+      "id": 4
+    },
+    {
+      "username": "ababab",
+      "password": "123456",
+      "nickname": "看的肯定看到",
+      "id": 5
+    },
+    {
+      "username": "bbbccc",
+      "password": "654321",
+      "nickname": "十六届",
+      "id": 6
     }
   ],
   "articles": [
